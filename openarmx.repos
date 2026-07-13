@@ -13,7 +13,7 @@ repositories:
     version: main
   openarmx_teleop_bridge:
     type: git
-    url: git@github.com:YOUR_ACCOUNT/openarmx_teleop_bridge.git
+    url: git@github.com:Honwit/openarmx_teleop_bridge.git
     version: main
   openarmx_interfaces:
     type: git
