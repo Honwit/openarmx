@@ -1,0 +1,10 @@
+repos/
+workspaces/**/build/
+workspaces/**/install/
+workspaces/**/log/
+workspaces/**/src/*
+!workspaces/**/src/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store

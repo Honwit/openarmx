@@ -1,0 +1,25 @@
+repositories:
+  openarmx_bringup:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/openarmx_bringup.git
+    version: main
+  openarmx_description:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/openarmx_description.git
+    version: main
+  openarmx_control:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/openarmx_control.git
+    version: main
+  openarmx_teleop_bridge:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/openarmx_teleop_bridge.git
+    version: main
+  openarmx_interfaces:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/openarmx_interfaces.git
+    version: main
+  lerobot_adapters:
+    type: git
+    url: git@github.com:YOUR_ACCOUNT/lerobot_adapters.git
+    version: main
